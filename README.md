@@ -1,22 +1,23 @@
 # 💫 Hi 👋, I'm Avishek Giri
-**A passionate Full Stack Web Developer || MERN Stack Enthusiast || From India**
+**MERN Stack Developer | Turning ideas into functional web apps 🚀 | Let’s build together!**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Avishek+Giri;Full+Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 
-Email Me 👉 ✉️ **avishekgiri31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### 👋 Hi there, I'm Avishek Giri
 
-💻 I’m currently learning: Full Stack Web Development using HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB.  
-🛠️ I'm building beginner-friendly projects like portfolio websites, to-do apps, and simple REST APIs to strengthen my skills.  
-🌱 I'm also exploring version control with Git & GitHub and learning how to host my projects on Netlify and Render.  
-👯 I’m looking to collaborate on: Simple open-source or beginner-friendly full stack projects to gain real-world experience.  
-🤝 I’m open to: Internships, freelance collaborations, and mentorship in web development.  
-💬 Ask me about: Learning resources, full stack roadmap, or project ideas for beginners.  
-📫 How to reach me: avishekgiri31@gmail.com  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love turning ideas into real working websites and believe in learning by doing!
+💻 I'm a Full Stack Web Developer (MERN Stack)  
+🚀 Currently learning & building projects with **React.js, Node.js, Express & MongoDB**  
+🛠️ Working on real-world beginner-friendly apps like portfolios, to-do lists & REST APIs  
+🌐 Exploring Git, GitHub, Netlify & Render for version control & deployment  
+🤝 Looking for: Internships, freelance gigs & beginner-friendly open-source collaborations  
+📬 Reach me: [avishekgiri31@gmail.com](mailto:avishekgiri31@gmail.com)
+
+
+✨ Fun fact: I believe in **learning by building** — every project is a step forward!
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -40,8 +41,6 @@ Email Me 👉 ✉️ **avishekgiri31@gmail.com** For Collaboration/Project or An
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=plastic&logo=render&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
