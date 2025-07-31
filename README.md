@@ -6,8 +6,7 @@
 </p>
 
 
-### 👋 Hi there, I'm Avishek Giri
-
+### 
 💻 I'm a Full Stack Web Developer (MERN Stack)  
 🚀 Currently learning & building projects with **React.js, Node.js, Express & MongoDB**  
 🛠️ Working on real-world beginner-friendly apps like portfolios, to-do lists & REST APIs  
@@ -18,10 +17,6 @@
 
 ✨ Fun fact: I believe in **learning by building** — every project is a step forward!
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sinuverse) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/avishekgiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avi_x_in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishekgiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/avishekgiri) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/avishekgiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avishekgiri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@avishekgiri) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/avishekgiri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishekgiri31@gmail.com) 
